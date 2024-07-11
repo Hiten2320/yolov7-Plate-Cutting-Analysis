@@ -1,9 +1,10 @@
 ## Classes:
 ``` shell
-plate
-spark
-magnetic lifter
 hook
+spark
+plate
+lifter
+
 ```
 ## Inference
 
