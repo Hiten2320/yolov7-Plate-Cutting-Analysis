@@ -4,7 +4,7 @@ plate
 spark
 magnetic lifter
 hook
-
+```
 ## Inference
 
 On video:
