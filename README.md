@@ -1,9 +1,9 @@
 ## Classes:
 ``` shell
-hook
-spark
-plate
-lifter
+0:hook
+1:spark
+2:plate
+3:lifter
 
 ```
 ## Inference
