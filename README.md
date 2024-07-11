@@ -10,12 +10,12 @@
 
 On video:
 ``` shell
-python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
+python detect.py --weights (your pt file) --conf 0.25 --img-size 640 --source yourvideo.mp4
 ```
 
 On image:
 ``` shell
-python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg
+python detect.py --weights (your pt file) --conf 0.25 --img-size 640 --source inference/images/horses.jpg
 ```
 
 ## for saving data into database
@@ -26,3 +26,6 @@ python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inferen
 
 
 ## In this there logic of ROI and loading and unloading of plate 
+```shell
+python real_sheetcutting.py
+```
